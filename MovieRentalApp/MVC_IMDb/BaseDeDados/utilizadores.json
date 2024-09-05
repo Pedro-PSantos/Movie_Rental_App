@@ -1,0 +1,44 @@
+[
+  {
+    "userID": 1,
+    "username": "tester1",
+    "password": "123",
+    "email": "test1@test.com"
+  },
+  {
+    "userID": 2,
+    "username": "tester2",
+    "password": "456",
+    "email": "test2@test.com"
+  },
+  {
+    "userID": 3,
+    "username": "tester3",
+    "password": "789",
+    "email": "test3@test.com"
+  },
+  {
+    "userID": 4,
+    "username": "asd123",
+    "password": "456fgh",
+    "email": "123asd"
+  },
+  {
+    "userID": 5,
+    "username": "asd",
+    "password": "asd",
+    "email": "asd"
+  },
+  {
+    "userID": 6,
+    "username": "asd123123",
+    "password": "123asd123",
+    "email": "asd123@asd123"
+  },
+  {
+    "userID": 7,
+    "username": "testadorcocador1",
+    "password": "cocacoca",
+    "email": "testadorcocador1@tester.com"
+  }
+]

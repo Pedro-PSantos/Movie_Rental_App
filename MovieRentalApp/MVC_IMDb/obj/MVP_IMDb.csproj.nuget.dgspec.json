@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Git\\Grupo13LabDS\\MVP_IMDb\\MVP_IMDb.csproj": {}
+  },
+  "projects": {
+    "C:\\Git\\Grupo13LabDS\\MVP_IMDb\\MVP_IMDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\Grupo13LabDS\\MVP_IMDb\\MVP_IMDb.csproj",
+        "projectName": "MVP_IMDb",
+        "projectPath": "C:\\Git\\Grupo13LabDS\\MVP_IMDb\\MVP_IMDb.csproj",
+        "packagesPath": "C:\\Users\\35191\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Grupo13LabDS\\MVP_IMDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\35191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "CefSharp.Common": {
+              "target": "Package",
+              "version": "[111.2.70, )"
+            },
+            "CefSharp.WinForms": {
+              "target": "Package",
+              "version": "[111.2.70, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.1661.34, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

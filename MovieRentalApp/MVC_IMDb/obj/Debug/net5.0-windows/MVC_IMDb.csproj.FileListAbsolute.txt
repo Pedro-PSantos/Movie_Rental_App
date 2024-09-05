@@ -1,0 +1,79 @@
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.AssemblyReference.cache
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormLogin.resources
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMenu.resources
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMoviesList.resources
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Properties.Resources.resources
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.GenerateResource.cache
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfoInputs.cache
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfo.cs
+C:\Users\Ricar\OneDrive\Documentos\GitHub\Grupo13LabDS\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.CoreCompileInputs.cache
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.AssemblyReference.cache
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormLogin.resources
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMoviesList.resources
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Properties.Resources.resources
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.GenerateResource.cache
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.GeneratedMSBuildEditorConfig.editorconfig
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfoInputs.cache
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfo.cs
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.CoreCompileInputs.cache
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMenu.resources
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.exe
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.deps.json
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.runtimeconfig.json
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.runtimeconfig.dev.json
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.dll
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.pdb
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.CopyComplete
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.dll
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\refint\MVC_IMDb.dll
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.pdb
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.genruntimeconfig.cache
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\ref\MVC_IMDb.dll
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormSelectedMovie.resources
+E:\UniversidadeAberta\2º ano\2º Semestre\21179_Laboratório de Desenvolvimento de Software\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormReservations.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.dll
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\refint\MVC_IMDb.dll
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.pdb
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.FormCreateAccount.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormLogin.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMenu.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMoviesList.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormReservations.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormSelectedMovie.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Properties.Resources.resources
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.exe
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.deps.json
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.runtimeconfig.json
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.dll
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\MVC_IMDb.pdb
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.CopyComplete
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\ref\MVC_IMDb.dll
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.FormCreateAccount.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormLogin.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMenu.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormMoviesList.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormReservations.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Forms.FormSelectedMovie.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.dll
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\refint\MVC_IMDb.dll
+C:\Users\Pedro\Desktop\Efolios\efolios 2º ano 2º semestre\Laboratório de Desenvolvimento de Software\eFolio C\LDS Pull\Grupo13LabDS-main\MVC_IMDb\obj\Debug\net5.0-windows\MVC_IMDb.pdb

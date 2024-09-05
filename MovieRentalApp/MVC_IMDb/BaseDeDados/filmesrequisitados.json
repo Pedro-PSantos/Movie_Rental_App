@@ -1,0 +1,10 @@
+[
+    {
+        "requestID": 1,
+        "movieID": "/title/tt5971474/",
+        "userID": 1,
+        "reservationDate": "03/06/2023 15:11",
+        "deliveryDate": "10/06/2023 23:59",
+        "delivered": false
+    }
+]

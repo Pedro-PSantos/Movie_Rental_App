@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = MVP_IMDb.Program
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = MVP_IMDb
+build_property.ProjectDir = C:\Users\Pikachu\Desktop\MVP_IMDbApp\MVP_IMDb\
